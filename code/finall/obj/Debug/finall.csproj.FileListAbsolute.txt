@@ -1,0 +1,60 @@
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.csproj.AssemblyReference.cache
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.data_frm.resources
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.Form1.resources
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.Properties.Resources.resources
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.csproj.GenerateResource.cache
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.csproj.CoreCompileInputs.cache
+C:\Users\PACIFIC\source\repos\finall\finall\bin\Debug\finall.exe.config
+C:\Users\PACIFIC\source\repos\finall\finall\bin\Debug\finall.exe
+C:\Users\PACIFIC\source\repos\finall\finall\bin\Debug\finall.pdb
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.exe
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.pdb
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.datal_frm.resources
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.datas_frm.resources
+C:\Users\PACIFIC\source\repos\finall\finall\obj\Debug\finall.cho_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\bin\Debug\finall.exe.config
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\bin\Debug\finall.exe
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\bin\Debug\finall.pdb
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.csproj.AssemblyReference.cache
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.cho_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.datal_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.dataqu_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.datas_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.data_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.Form1.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.Properties.Resources.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.csproj.GenerateResource.cache
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.csproj.CoreCompileInputs.cache
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.exe
+C:\Users\PACIFIC\source\repos\finall - Copy-main\finall\obj\Debug\finall.pdb
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\bin\Debug\finall.exe.config
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\bin\Debug\finall.exe
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\bin\Debug\finall.pdb
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.csproj.AssemblyReference.cache
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.cho_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.datal_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.dataqu_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.datas_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.data_frm.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.Form1.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.Properties.Resources.resources
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.csproj.GenerateResource.cache
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.csproj.CoreCompileInputs.cache
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.exe
+C:\Users\PACIFIC\source\repos\finall - Copy-main-design\finall\obj\Debug\finall.pdb
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\bin\Debug\finall.exe.config
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\bin\Debug\finall.exe
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\bin\Debug\finall.pdb
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.csproj.AssemblyReference.cache
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.csproj.SuggestedBindingRedirects.cache
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.cho_frm.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.datal_frm.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.dataqu_frm.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.datas_frm.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.data_frm.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.Form1.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.Properties.Resources.resources
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.csproj.GenerateResource.cache
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.csproj.CoreCompileInputs.cache
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.exe
+D:\projects\proje paygah\nomredahi\nomredahi\finall - Copy-main-design\finall\obj\Debug\finall.pdb
